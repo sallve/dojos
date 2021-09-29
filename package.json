@@ -1,0 +1,23 @@
+{
+  "name": "dojos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sallve/dojos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sallve/dojos/issues"
+  },
+  "homepage": "https://github.com/sallve/dojos#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
